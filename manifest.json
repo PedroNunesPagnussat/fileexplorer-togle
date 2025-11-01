@@ -1,0 +1,10 @@
+{
+	"id": "file-explorer-toggle",
+	"name": "File Explorer Toggle",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Toggle the file explorer sidebar with a ribbon icon or command",
+	"author": "Your Name",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
